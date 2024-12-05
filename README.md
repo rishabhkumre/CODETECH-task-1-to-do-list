@@ -1,7 +1,7 @@
 Name: RISHABH KUMRE
 Company: CODETECH IT SOLUTIONS
 ID:CT08DS9906
-Domain: web technology
+Domain: web development
 Duration: November to December
 
 
